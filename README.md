@@ -1,2 +1,2 @@
-# demo_repo
-My_first_repository
+# Description
+This is my first git repository
